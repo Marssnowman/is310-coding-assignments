@@ -1,0 +1,8 @@
+Memes, Reddit posts, and social media transformed investing into a form of online culture.
+
+But online discussion can eventually influence real market behavior.
+
+Go to:
+..\..\markets\trading_floor
+
+Read clue4.txt.

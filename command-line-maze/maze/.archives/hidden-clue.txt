@@ -1,0 +1,11 @@
+You found the hidden archive.
+
+Wall Street culture is created not only by markets themselves, but by the stories, images, headlines, and online communities surrounding them.
+
+Now go to the final destination:
+
+cd ..\final_vault
+
+Then read:
+
+Get-Content solution.txt

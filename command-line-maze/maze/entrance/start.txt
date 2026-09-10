@@ -1,0 +1,8 @@
+Welcome to the Wall Street Culture Maze.
+
+Your journey begins with the way Wall Street is represented on screen.
+
+Go to:
+media\movies
+
+Then read clue1.txt.

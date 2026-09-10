@@ -1,0 +1,14 @@
+You have reached the trading floor.
+
+Your final clue is hidden.
+
+First, return to the root of the maze:
+
+cd ..\..
+
+Then use this command to show hidden files and directories:
+
+Get-ChildItem -Force
+
+Look for a hidden directory and enter it.
+Then read hidden-clue.txt.

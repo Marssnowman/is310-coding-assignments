@@ -1,0 +1,8 @@
+Financial news helps shape how the public understands markets, crashes, companies, and investors.
+
+Today, however, financial culture also spreads through online communities.
+
+Go to:
+..\..\internet\memes
+
+Read clue3.txt.

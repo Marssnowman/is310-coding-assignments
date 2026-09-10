@@ -1,0 +1,8 @@
+Movies such as Wall Street and The Wolf of Wall Street helped create popular images of finance, wealth, greed, and ambition.
+
+But popular culture is also shaped every day by headlines.
+
+Go back one level, then enter:
+news
+
+Read clue2.txt.
