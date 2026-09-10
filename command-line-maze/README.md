@@ -51,5 +51,3 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 Then run:
 
 .\hide-dotfiles.ps1
-
-Good luck!
