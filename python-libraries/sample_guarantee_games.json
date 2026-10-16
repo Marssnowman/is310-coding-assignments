@@ -1,0 +1,22 @@
+[
+    {
+        "game_date": "2025-09-06",
+        "home_team": "Illinois",
+        "away_team": "Western Illinois",
+        "home_level": "FBS",
+        "away_level": "FCS",
+        "payout_amount": "500000",
+        "payout_source": "Test contract",
+        "source_url": "https://example.com"
+    },
+    {
+        "game_date": "2025-09-13",
+        "home_team": "Purdue",
+        "away_team": "Southern Illinois",
+        "home_level": "FBS",
+        "away_level": "FCS",
+        "payout_amount": "600000",
+        "payout_source": "Test report",
+        "source_url": "https://example.com"
+    }
+]
